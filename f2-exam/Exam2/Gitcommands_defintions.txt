@@ -1,0 +1,28 @@
+
+Git Commands:
+1.) Git status
+2.) Git Log
+3.) Git add .
+    Git commit -m "Message for changes/adds/deletions"
+    Git push	   
+
+
+Definitions:
+
+1.) Class - A blueprint for the object, has member variables and methods.
+
+2.) Object - the output from the blueprint, what your variables/properties and methods/create create.
+
+3.) Construction - the function/process of creating the object from variables/functions.  "Constructors are functions in a class that are automatically called when you create a new instance of a class with new. A function becomes a constructor, when it has the same name as the class. If a class has no constructor, the constructor of the base class will be called, if it exists."
+
+4.) Function- the rule/method of creating the object that is reusable.  What should the output be for certain scenerio.
+
+5.) Inheritance-Giving a class a previous more general classes properties, thus allowing one to use all objects within that class.  Human ->Employee.  Employee inherits human class.
+
+6.) Loop-a loop function evaluates an argument runs through that argument and returns to the beginning of the loop and reevalutes until it is not true/valid anymore.
+
+7.)Datatypes- string, array, object, boolean etc.  Data types are used to create variables.
+
+8.)Array-string of values/words
+
+9.)Recursion-going through something and then retracing and having to comeback through each loop set.
