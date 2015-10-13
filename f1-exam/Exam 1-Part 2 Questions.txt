@@ -1,0 +1,31 @@
+1.) What do the following tags do/mean in html?
+blockquote, p, h2, section, a, strong 
+
+blockquote - identifies a quotation section taken from another source
+p - paragraph
+h2 - header 2
+section - same as div -creates a blocked off section/box
+a - link
+strong-bold font
+
+What is the first line of code in a bash script that your computer uses to
+determine which interpreter to use? (hint: it starts with “#” (hint: it starts with “#”)
+
+ #!/bin/bash
+
+What grade do you expect to get in this course?
+
+A
+
+How many hours of work outside of the classroom are you prepared to
+commit?
+
+20 Hours
+
+What is the email you want listed in the webdevprgm repo?
+
+ckitz@meetlikeminds.io
+
+Send me an image to use as well, if there isn’t one already up
+
+Already one in file
