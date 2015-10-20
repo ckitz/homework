@@ -1,6 +1,14 @@
 body {
      background-color: black;
      }
+.background {
+  position: fixed; 
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+	 
 
 h1 { font-family: arial;
 	color: yellow;
@@ -11,7 +19,9 @@ h2 { font-family: arial;
 	color: purple;
 	font-size: 36px;}
 	
-p { color:white;}
+p { text-align: center;
+	color:white;}
 
-ul { color: white;}
+ul { color: white;
+	text-align: center;}
 

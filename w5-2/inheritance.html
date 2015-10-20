@@ -1,0 +1,55 @@
+<script>
+
+var person = new object();
+{
+	person.height = ["tall", "short", "average"];
+	person.weight = ["fat", "thin"];
+	person.first = "Chris";
+	person.middle = "Edward";
+	person.last = "Kitz";
+	person.race = ["white", "black", "asian", "hispanic"];
+	person.eyecolor = ["blue", "brown", "green"];
+	person.vision = "20/20";
+	person.shoesize = [7,8,9,10,11,12];
+	person.bodytype = ["muscular", "lean", "obese"];
+	
+	function size (height, weight) //height and weight of person//
+		{document.write (height, weight)
+		};
+	
+	function name (first, middle, last) //full name //
+		{document.write (first, middle, last); 
+		}
+	
+	function ethnicity (race) //race of person //
+		{document.write (race);
+		}
+	
+	function eyeclr (eyecolor) //eye color of person //
+		{document.write (eyecolor);
+		}
+	
+	function feet (shoesize) //shoe size of person //
+	{document.write (shoesize);
+	}
+	
+}
+
+console.log(person);
+
+person.feet(shoesize);
+
+var message = "<p> Welcome!</p>";
+
+function msg (message, number) {
+
+	while (number >0) {
+
+document.write (message);
+
+number = number -1;
+}
+}
+msg (message, 10);
+
+</script>
