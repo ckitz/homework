@@ -1,0 +1,28 @@
+Home page
+	Highlight strengths and weaknessess
+	2 Profile pages (Me and Partner)
+		Should cover the same topic and same layout
+	
+	Page 2
+		Highlight similarities on work ethic
+		
+	Page 3 
+		Highlight differences on work ethic etc (same layout as similarities)
+		
+	Requirements
+		Navigation
+		Responsive - Mobile view -> drop down menu from menu bar
+		Website must have 3 features that use java script - makes sense , useful
+		Correctly use github (shouldn't see to many merges, make separate branches possibly, use git well, many commits)
+		See many comments in closing sections
+		Images on all pages - images compliment 
+		Pleasing to the eye
+		Alt tags
+		Periods
+		Import custom font (google fonts)
+		Set fonts in css as font importing
+		Website should optimized -> use CDNs , make image size small
+		Keep it professional
+		
+		Project due this Saturday, New repo -> project-team
+		
